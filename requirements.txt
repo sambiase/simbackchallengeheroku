@@ -1,6 +1,0 @@
-flask
-sqlalchemy
-flask-marshmallow
-marshmallow-sqlalchemy
-flask-sqlalchemy
-gunicorn
