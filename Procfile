@@ -1,1 +1,1 @@
-web: gunicorn main_heroku_sqlite:app
+web: gunicorn main:app
